@@ -10,6 +10,5 @@
 사용법
 데이터셋과 코드를 다운로드하시고 main.py를 실행하시면 unet신경망이 훈련되고 결과물에 test폴더에 저장됩니다.
 
-
-https://github.com/crooba/unetmembrane/blob/master/sample_cell.png
-https://github.com/crooba/unetmembrane/blob/master/sample_cell_mask_predict.png
+아래 링크를 클릭하면 테스트 이미지의 결과샘플을 볼수 있습니다.
+https://github.com/crooba/unetmembrane/blob/master/sample_cell_mask.png
