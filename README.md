@@ -12,3 +12,6 @@
 
 아래 링크를 클릭하면 테스트 이미지의 결과샘플을 볼수 있습니다.
 https://github.com/crooba/unetmembrane/blob/master/sample_cell_mask.png
+
+<img width="160" alt="sample_cell_mask" src="https://user-images.githubusercontent.com/45910733/73260966-6c2bb300-420e-11ea-9e1a-1245a47afeab.png">
+
