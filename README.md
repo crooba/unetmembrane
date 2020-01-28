@@ -10,7 +10,7 @@
 사용법
 데이터셋과 코드를 다운로드하시고 main.py를 실행하시면 unet신경망이 훈련되고 결과물에 test폴더 저장됩니다.
 
-아래 링크를 클릭하면 테스트 이미지의 결과샘플을 볼수 있습니다.
-https://github.com/crooba/unetmembrane/blob/master/sample_cell_mask.png
+아래 이미지는 세포현미경이미지(왼쪽)와 그것을 토대로 훈련받은 유넷신경망이 그려 낸 세포경계선이미지(오르쪽)입니다.
+전문가들의 손작업을 기준으로 약95%의 정확도로 훈련되었습니다.
 
 <img width="1280" alt="스크린샷 2020-01-28 오후 8 44 45" src="https://user-images.githubusercontent.com/45910733/73261269-160b3f80-420f-11ea-8a70-160da0253f72.png">
