@@ -17,4 +17,7 @@
 전문가들의 손작업을 기준으로 약95%의 정확도로 훈련되었습니다.
 
 
-<img width="1280" alt="스크린샷 2020-01-28 오후 8 44 45" src="https://user-images.githubusercontent.com/45910733/73261269-160b3f80-420f-11ea-8a70-160da0253f72.png">
+<br>
+<br>
+
+<img width="1280" alt="스크린샷 2020-01-28 오후 8 44 45" src="https://user-images.githubusercontent.com/45910733/73261269-160b3f80-420f-11ea-8a70-160da0253f72.png">
